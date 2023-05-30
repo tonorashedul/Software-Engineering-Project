@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74445705603",
+    "project_id": "tutors-planet-5b37e",
+    "storage_bucket": "tutors-planet-5b37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74445705603:android:1f26689491e0041f4166b6",
+        "android_client_info": {
+          "package_name": "com.seproject.tutorsplanet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzX1qG2yaUIv-hVceEbdWAihoYLCuBbQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
